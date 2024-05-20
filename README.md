@@ -1,2 +1,4 @@
-# firmware_gfp_model_E
-Хранилище  firmware_gfp_model_E
+fmotc_model_E_V0.54.0
+RUS: тестовая прошивка
+ENG: testing firmware
+ENG: testo firmware /
